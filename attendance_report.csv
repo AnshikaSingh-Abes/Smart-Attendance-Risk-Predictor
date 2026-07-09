@@ -1,0 +1,26 @@
+Student_ID,Student_Name,Department,Semester,Total_Classes,Attended_Classes,Practical_Total_Classes,Practical_Attended,Internal_Marks,Assignments_Submitted,Medical_Leave,Attendance_Percentage,Practical_Percentage,Risk_Level,Exam_Eligibility,Classes_Needed,Safe_Bunks,Suggestion
+101,Rahul Sharma,CSE,1,100,88,20,18,26,Yes,No,88.0,90.0,Safe,Eligible,0,17,Maintain your attendance.
+102,Anjali Singh,AIML,1,100,94,20,20,29,Yes,No,94.0,100.0,Excellent,Eligible,0,25,Excellent! Keep it up.
+103,Aman Verma,CSE,1,100,69,20,12,18,No,No,69.0,60.0,Warning,Not Eligible,24,0,Attend classes regularly.
+104,Riya Gupta,AIML,1,100,81,20,17,24,Yes,No,81.0,85.0,Safe,Eligible,0,8,Maintain your attendance.
+105,Priya Yadav,IT,1,100,77,20,16,22,Yes,No,77.0,80.0,Safe,Eligible,0,2,Maintain your attendance.
+106,Arjun Kumar,CSE,1,100,63,20,10,17,No,No,63.0,50.0,High Risk,Not Eligible,48,0,Attend classes regularly.
+107,Neha Sharma,AIML,1,100,97,20,20,30,Yes,No,97.0,100.0,Excellent,Eligible,0,29,Excellent! Keep it up.
+108,Karan Singh,IT,1,100,72,20,14,20,No,No,72.0,70.0,Warning,Not Eligible,12,0,Attend classes regularly.
+109,Sneha Verma,CSE,1,100,86,20,18,27,Yes,Yes,86.0,90.0,Safe,Eligible,0,14,Maintain your attendance.
+110,Anshika Singh,AIML,1,100,83,20,19,28,Yes,No,83.0,95.0,Safe,Eligible,0,10,Maintain your attendance.
+111,Vivek Kumar,CSE,1,100,91,20,19,28,Yes,No,91.0,95.0,Excellent,Eligible,0,21,Excellent! Keep it up.
+112,Muskan Gupta,IT,1,100,75,20,15,23,Yes,No,75.0,75.0,Safe,Eligible,0,0,Maintain your attendance.
+113,Harsh Sharma,AIML,1,100,67,20,11,19,No,No,67.0,55.00000000000001,Warning,Not Eligible,32,0,Attend classes regularly.
+114,Ayushi Verma,CSE,1,100,89,20,18,27,Yes,No,89.0,90.0,Safe,Eligible,0,18,Maintain your attendance.
+115,Rohit Singh,IT,1,100,58,20,8,16,No,No,57.99999999999999,40.0,High Risk,Not Eligible,68,0,Attend classes regularly.
+116,Sakshi Jain,AIML,1,100,84,20,18,26,Yes,Yes,84.0,90.0,Safe,Eligible,0,12,Maintain your attendance.
+117,Deepak Yadav,CSE,1,100,79,20,16,24,Yes,No,79.0,80.0,Safe,Eligible,0,5,Maintain your attendance.
+118,Simran Kaur,IT,1,100,92,20,20,29,Yes,No,92.0,100.0,Excellent,Eligible,0,22,Excellent! Keep it up.
+119,Aditya Mishra,CSE,1,100,73,20,14,21,No,No,73.0,70.0,Warning,Not Eligible,8,0,Attend classes regularly.
+120,Nikita Sharma,AIML,1,100,95,20,20,30,Yes,No,95.0,100.0,Excellent,Eligible,0,26,Excellent! Keep it up.
+121,Akash Verma,IT,1,100,66,20,12,18,No,No,66.0,60.0,Warning,Not Eligible,36,0,Attend classes regularly.
+122,Pooja Singh,CSE,1,100,82,20,17,25,Yes,No,82.0,85.0,Safe,Eligible,0,9,Maintain your attendance.
+123,Yash Gupta,AIML,1,100,78,20,16,23,Yes,No,78.0,80.0,Safe,Eligible,0,4,Maintain your attendance.
+124,Tanvi Agarwal,IT,1,100,90,20,19,28,Yes,No,90.0,95.0,Excellent,Eligible,0,20,Excellent! Keep it up.
+125,Mohit Sharma,CSE,1,100,61,20,9,17,No,No,61.0,45.0,High Risk,Not Eligible,56,0,Attend classes regularly.

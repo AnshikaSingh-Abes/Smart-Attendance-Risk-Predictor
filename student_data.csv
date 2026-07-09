@@ -1,0 +1,26 @@
+Student_ID,Student_Name,Department,Semester,Total_Classes,Attended_Classes,Practical_Total_Classes,Practical_Attended,Internal_Marks,Assignments_Submitted,Medical_Leave
+101,Rahul Sharma,CSE,1,100,88,20,18,26,Yes,No
+102,Anjali Singh,AIML,1,100,94,20,20,29,Yes,No
+103,Aman Verma,CSE,1,100,69,20,12,18,No,No
+104,Riya Gupta,AIML,1,100,81,20,17,24,Yes,No
+105,Priya Yadav,IT,1,100,77,20,16,22,Yes,No
+106,Arjun Kumar,CSE,1,100,63,20,10,17,No,No
+107,Neha Sharma,AIML,1,100,97,20,20,30,Yes,No
+108,Karan Singh,IT,1,100,72,20,14,20,No,No
+109,Sneha Verma,CSE,1,100,86,20,18,27,Yes,Yes
+110,Anshika Singh,AIML,1,100,83,20,19,28,Yes,No
+111,Vivek Kumar,CSE,1,100,91,20,19,28,Yes,No
+112,Muskan Gupta,IT,1,100,75,20,15,23,Yes,No
+113,Harsh Sharma,AIML,1,100,67,20,11,19,No,No
+114,Ayushi Verma,CSE,1,100,89,20,18,27,Yes,No
+115,Rohit Singh,IT,1,100,58,20,8,16,No,No
+116,Sakshi Jain,AIML,1,100,84,20,18,26,Yes,Yes
+117,Deepak Yadav,CSE,1,100,79,20,16,24,Yes,No
+118,Simran Kaur,IT,1,100,92,20,20,29,Yes,No
+119,Aditya Mishra,CSE,1,100,73,20,14,21,No,No
+120,Nikita Sharma,AIML,1,100,95,20,20,30,Yes,No
+121,Akash Verma,IT,1,100,66,20,12,18,No,No
+122,Pooja Singh,CSE,1,100,82,20,17,25,Yes,No
+123,Yash Gupta,AIML,1,100,78,20,16,23,Yes,No
+124,Tanvi Agarwal,IT,1,100,90,20,19,28,Yes,No
+125,Mohit Sharma,CSE,1,100,61,20,9,17,No,No
